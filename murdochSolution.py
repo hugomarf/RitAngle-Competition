@@ -11,5 +11,3 @@ def solution():
   B = 16
   C = 34
     
-    i did it where r u im ll2
-    p7 but moving i thinkahi come now
